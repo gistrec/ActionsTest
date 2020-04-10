@@ -1,4 +1,5 @@
 build:
-  echo "Building library..."
+	echo "Building library..."
+
 check:
-  echo "Cheking library..."
+	echo "Cheking library..."
